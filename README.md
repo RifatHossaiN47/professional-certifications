@@ -260,7 +260,7 @@ I'm always open to discussing new opportunities, collaborations, or tech convers
 📧 **Email:** rifat8851@gmail.com  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rifathossain47/)  
 🐙 **GitHub:** [Github Profile](https://github.com/RifatHossaiN47)  
-🌐 **Portfolio:** [\[Your Portfolio Website\]](https://krakenByte.vercel.app/portfolio)
+🌐 **Portfolio:** [Portfolio Website](https://krakenByte.vercel.app/portfolio)
 
 ---
 
