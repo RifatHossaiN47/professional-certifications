@@ -1,0 +1,233 @@
+# 🎓 Professional Certifications & Achievements
+
+[![Profile Views](https://img.shields.io/badge/Profile-Views-blue)](https://github.com)
+[![Certificates](https://img.shields.io/badge/Certificates-14-success)](https://github.com)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-informational)](https://github.com)
+
+> A comprehensive collection of my professional certifications and training accomplishments across **Web Development**, **Data Science**, **Machine Learning**, and **Software Engineering**.
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Certifications by Category](#certifications-by-category)
+  - [Web Development](#-web-development)
+  - [Programming Languages](#-programming-languages)
+  - [Data Science & Machine Learning](#-data-science--machine-learning)
+  - [Conferences & Workshops](#-conferences--workshops)
+- [Skills Summary](#-skills-summary)
+- [Contact](#-contact)
+
+---
+
+## 🎯 Overview
+
+This repository showcases my commitment to continuous learning and professional development. Each certificate represents hands-on training, practical projects, and demonstrated competency in modern technologies and frameworks.
+
+**Total Certifications:** 14  
+**Focus Areas:** Full-Stack Development, Data Science, Machine Learning, Python, JavaScript  
+**Learning Platforms:** Various industry-recognized providers
+
+---
+
+## 📚 Certifications by Category
+
+### 🌐 Web Development
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Skills Covered</th>
+    <th>View</th>
+  </tr>
+  <tr>
+    <td><b>App Development Course</b></td>
+    <td>Mobile/Web App Development, UI/UX Design</td>
+    <td><a href="./Web_Development/App_Development_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Node.js + Express.js + MongoDB</b></td>
+    <td>Backend Development, REST APIs, Database Management</td>
+    <td><a href="./Web_Development/NodeJS_ExpressJS_MongoDB_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>React & Redux</b></td>
+    <td>Frontend Development, State Management, Component Architecture</td>
+    <td><a href="./Web_Development/React_Redux_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>GitHub Course</b></td>
+    <td>Version Control, Collaboration, CI/CD, Git Workflows</td>
+    <td><a href="./Web_Development/GitHub_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+</table>
+
+**Key Technologies:** Node.js, Express.js, React, Redux, MongoDB, GitHub, REST APIs
+
+---
+
+### 💻 Programming Languages
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Skills Covered</th>
+    <th>View</th>
+  </tr>
+  <tr>
+    <td><b>Complete Java Course</b></td>
+    <td>OOP, Data Structures, Algorithms, Java Fundamentals</td>
+    <td><a href="./Programming_Languages/Java_Complete_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Python Fundamentals Skill Track</b></td>
+    <td>Python Syntax, Functions, Modules, Best Practices</td>
+    <td><a href="./Programming_Languages/Python_Fundamentals_Skill_Track.pdf">📄 View Certificate</a></td>
+  </tr>
+</table>
+
+**Key Technologies:** Java, Python, OOP, Data Structures
+
+---
+
+### 🤖 Data Science & Machine Learning
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Skills Covered</th>
+    <th>View</th>
+  </tr>
+  <tr>
+    <td><b>Machine Learning Course</b></td>
+    <td>ML Algorithms, Model Training, Predictive Analytics</td>
+    <td><a href="./Data_Science_ML/Machine_Learning_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Python Data Analysis Course</b></td>
+    <td>Pandas, NumPy, Data Visualization, Statistical Analysis</td>
+    <td><a href="./Data_Science_ML/Python_Data_Analysis_Course.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Python Data Fundamentals Skill Track</b></td>
+    <td>Data Manipulation, ETL, Data Cleaning, Analysis</td>
+    <td><a href="./Data_Science_ML/Python_Data_Fundamentals_Skill_Track.pdf">📄 View Certificate</a></td>
+  </tr>
+</table>
+
+**Key Technologies:** Machine Learning, Python, Pandas, NumPy, Data Visualization, Statistical Analysis
+
+---
+
+### 🏆 Conferences & Workshops
+
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Description</th>
+    <th>View</th>
+  </tr>
+  <tr>
+    <td><b>821 Conference Event</b></td>
+    <td>Technical Conference Participation</td>
+    <td><a href="./Conferences_Workshops/Conference_821_Event.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>ICDSAIA Conference (Certificate 1)</b></td>
+    <td>International Conference on Data Science & AI</td>
+    <td><a href="./Conferences_Workshops/ICDSAIA_Conference_Certificate_1.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>ICDSAIA Conference (Certificate 2)</b></td>
+    <td>International Conference on Data Science & AI</td>
+    <td><a href="./Conferences_Workshops/ICDSAIA_Conference_Certificate_2.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Workshop Participants Certificate</b></td>
+    <td>Technical Workshop Participation</td>
+    <td><a href="./Conferences_Workshops/Workshop_Participants_Certificate.pdf">📄 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Workshop Participation Certificate</b></td>
+    <td>Technical Workshop Participation</td>
+    <td><a href="./Conferences_Workshops/Workshop_Participation_Certificate.pdf">📄 View Certificate</a></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Skills Summary
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Data Science & ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Learning Journey
+
+```mermaid
+graph LR
+    A[Programming Fundamentals] --> B[Web Development]
+    A --> C[Data Science]
+    B --> D[Full-Stack Development]
+    C --> E[Machine Learning]
+    D --> F[Professional Projects]
+    E --> F
+```
+
+---
+
+## 🎯 Current Focus Areas
+
+- ✅ Full-Stack Web Development (MERN Stack)
+- ✅ Machine Learning & Data Science
+- ✅ Python & Java Programming
+- ✅ REST API Development
+- ✅ Version Control & Collaboration
+
+---
+
+## 📬 Contact
+
+I'm always open to discussing new opportunities, collaborations, or tech conversations!
+
+📧 **Email:** [Your Email]  
+💼 **LinkedIn:** [Your LinkedIn Profile]  
+🐙 **GitHub:** [Your GitHub Profile]  
+🌐 **Portfolio:** [Your Portfolio Website]
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, feel free to star this repository!
+
+**Last Updated:** December 2025
+
+</div>
