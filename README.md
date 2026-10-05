@@ -33,10 +33,11 @@ My achievements are categorized into the following areas for easy navigation:
 * 🛠️ **[Workshop Participation](./04_Research_and_Conferences/Workshop-Participation.pdf)**
 
 ### 🏆 [05. Leadership & Competitions](./05_Leadership_and_Competitions)
-*Extracurricular leadership roles and competitive presentations.*
+*Extracurricular leadership roles, startup competitions, and incubation achievements.*
 * ⏱️ **[3-Minute Thesis (3MT) 2025](./05_Leadership_and_Competitions/3-Minute-Thesis-2025.pdf)**
 * 👔 **[General Secretary, DCAC](./05_Leadership_and_Competitions/General-Secretary-DCAC.pdf)** (Dhaka College Association of CUET)
-* 💡 **[ITBI Startup Pitch Fest 2026](./05_Leadership_and_Competitions/ITBI-Startup-Pitch-Fest-2026.pdf)**
+* 💡 **[ITBI Startup Pitch Fest 2026](./05_Leadership_and_Competitions/ITBI-Startup-Pitch-Fest-2026.pdf)** (Certificate of Participation – Team KREMS)
+* 🏢 **[ITBI Incubation Offer Letter 2026](./05_Leadership_and_Competitions/ITBI-Incubation-Offer-Letter-2026.pdf)** (6-Month Incubation Office Space Award – Startup GarageBoi)
 
 ---
 *Feel free to browse through the folders to view the official certificates and documents.*
